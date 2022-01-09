@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\jatin\.android\avd\phone_1.avd" />
+          </Key>
+        </deviceKey>
+        <snapshotKey value="C:\Users\jatin\.android\avd\phone_1.avd\snapshots\snap_2022-01-09_17-44-34" />
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2022-01-09T12:29:54.276461700Z" />
+  </component>
+</project>
